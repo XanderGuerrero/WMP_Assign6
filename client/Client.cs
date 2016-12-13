@@ -2,7 +2,7 @@
 //PROJECT:      Assignment6
 //DATE:	        04/11/2014
 //AUTHORS:	    Alex Guerrero, Manbir Singh
-//DISCRIPTION:	The Client side program attempts to establish conncetions with a server host by using the IP 
+//DESCRIPTION:	The Client side program attempts to establish conncetions with a server host by using the IP 
 //              address supplied by the user at the start of the program.  If the program is successful in 
 //              connecting, a write and read thread is created to handle messaging between the two programs.
 //              When the user chooses to exit both the server and client shut down communications

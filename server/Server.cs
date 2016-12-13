@@ -2,7 +2,7 @@
 //PROJECT:      Assignment6
 //DATE:	        04/11/2014
 //AUTHORS:	    Alex Guerrero, Manbir Singh
-//DISCRIPTION:	The server program is used as one side of a chat program that also acts as the host computer for 
+//DESCRIPTION:	The server program is used as one side of a chat program that also acts as the host computer for 
 //              communications over a network.  The server program establishes threads to read and write and commands to
 //              exit when the users choose to do so.
 //              HOW TO RUN:  server cmd line arguments required are a chat name, ip address is localhost
